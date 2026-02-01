@@ -267,7 +267,7 @@
             <h3>No Orders Yet</h3>
             <p>You haven't placed any orders yet. Start shopping to see your orders here!</p>
             <a href="{{ route('shop.products') }}">
-                <i class="fas fa-shopping-cart"></i> Start Shopping
+                Start Shopping
             </a>
         </div>
     @else
